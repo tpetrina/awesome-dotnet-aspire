@@ -22,6 +22,7 @@ To the extent possible under law, [Toni Petrina](https://github.com/tpetrina) ha
   * [Tools](#tools)
   * [Videos](#videos)
   * [Blog posts](#blog-posts)
+  * [Example projects](#example-projects)
 * [Other Lists](#other-lists)
 * [Resources](#resources)
 
@@ -44,6 +45,10 @@ To the extent possible under law, [Toni Petrina](https://github.com/tpetrina) ha
 * [Building .NET Applications Across Clouds with .NET Aspire](https://www.youtube.com/watch?v=yVgr6cRYOPk) - From .NET Conf 2024
 
 ## Blog posts
+
+## Example projects
+
+* [thangchung/practical-dotnet-aspire](https://github.com/thangchung/practical-dotnet-aspire) - The practical .NET Aspire builds on the coffeeshop app business domain 
 
 # Other Lists
 
